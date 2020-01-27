@@ -5,8 +5,8 @@
 - [Game Of Life](https://github.com/cmontminy/game-of-life) - HashTable storage, saving board states, pre-made shapes
 - [Visual Graphs](https://github.com/Dinoswarleafs/VisualGraphs) - All
 - [L Game](https://github.com/Dinoswarleafs/L_Game) - Multiplayer, dark mode, custom themes
-- DISCribe
-- Luigi Bot - Random shit
+- [DISCribe](https://github.com/Dinoswarleafs/DISCribe)
+- [Luigi Bot](https://github.com/cmontminy/luigi-bot) - Random shit
 
 **Future Projects:**
 
