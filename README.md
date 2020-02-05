@@ -7,6 +7,8 @@
 - [L Game](https://github.com/Dinoswarleafs/L_Game) - Multiplayer, dark mode, custom themes
 - [DISCribe](https://github.com/Dinoswarleafs/DISCribe)
 - [Luigi Bot](https://github.com/cmontminy/luigi-bot) - Random shit
+- CS314 Animations
+- CS314 Mock Tests & Sample Questions
 
 **Future Projects:**
 
