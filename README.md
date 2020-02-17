@@ -9,6 +9,8 @@
 - [Luigi Bot](https://github.com/cmontminy/luigi-bot) - Random shit
 - CS314 Animations
 - CS314 Mock Tests & Sample Questions
+- SVT Graph Visualizer
+
 
 **Future Projects:**
 
