@@ -10,6 +10,7 @@
 - CS314 Animations
 - CS314 Mock Tests & Sample Questions
 - SVT Graph Visualizer
+- UIL Academics Full Teaching Packet
 
 
 **Future Projects:**
