@@ -10,7 +10,7 @@
 - CS314 Animations
 - CS314 Mock Tests & Sample Questions
 - SVT Graph Visualizer
-- UIL Academics Full Teaching Packet
+- UIL Academics Full Teaching Packet - Videos, Practice Assignments, Practice Tests
 - Make Android Due Equivelant - https://www.dueapp.com/
 
 **Future Projects:**
