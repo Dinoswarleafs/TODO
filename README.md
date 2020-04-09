@@ -10,6 +10,7 @@
 - UIL Academics Full Teaching Packet - Videos, Practice Assignments, Practice Tests
 - Make Android Due Equivelant - https://www.dueapp.com/
 - Animal Crossing Bot
+- Python Data Display Site
 
 **Future Projects:**
 
