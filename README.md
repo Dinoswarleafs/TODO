@@ -11,6 +11,7 @@
 - Make Android Due Equivelant - https://www.dueapp.com/
 - Animal Crossing Bot
 - Python Data Display Site
+- Chrome Extension
 
 **Future Projects:**
 
