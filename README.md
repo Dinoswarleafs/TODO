@@ -2,21 +2,20 @@
 
 **Current Projects:**
 - [DISCribe](https://github.com/Dinoswarleafs/DISCribe)
+- SVT Graph Visualizer
+- UIL Academics Full Teaching Packet - Videos, Practice Assignments, Practice Tests
+
+**Future Projects:**
 - [Visual Graphs](https://github.com/Dinoswarleafs/VisualGraphs) - All
 - [Luigi Bot](https://github.com/cmontminy/luigi-bot) - Random shit
 - CS314 Animations
 - CS314 Mock Tests & Sample Questions
-- SVT Graph Visualizer
-- UIL Academics Full Teaching Packet - Videos, Practice Assignments, Practice Tests
+- [Splatoon bot](https://github.com/cmontminy/splatfest-bot)
+- Guitar visualizer 
 - Make Android Due Equivelant - https://www.dueapp.com/
 - Animal Crossing Bot
 - Python Data Display Site
 - Chrome Extension
-
-**Future Projects:**
-
-- [Splatoon bot](https://github.com/cmontminy/splatfest-bot)
-- Guitar visualizer 
 ---
 **Resume Projects:**
 
