@@ -2,7 +2,7 @@
 
 **Current Projects:**
 - [DISCribe](https://github.com/Dinoswarleafs/DISCribe)
-- SVT Graph Visualizer
+- [SVT Graph Visualizer](https://github.com/lhr-solar/DataAcquisition/tree/master/visual/DataDisplay)
 - UIL Academics Full Teaching Packet - Videos, Practice Assignments, Practice Tests
 
 **Future Projects:**
